@@ -244,17 +244,28 @@ nav a {
     font-size: 3rem;
 }
 
-@media screen and (min-width: 768) {
-    .project-column {
+@media screen and (max-width: 992px) {
+    /* .project-column {
         flex: 0 0 50%;
         max-width: 50%;
-    }
+    } */
 
     /* .project-column:first-child {
         flex-grow: 0;
     } */
 }
 
-@media screen and (min-width: 992) {
+@media screen and (max-width: 768px) {
 
+}
+
+@media screen and (max-width: 576px) {
+    /* .project-column {
+        flex: 0 0 50%;
+        max-width: 50%;
+    } */
+
+    /* .project-column:first-child {
+        flex-grow: 0;
+    } */
 }
