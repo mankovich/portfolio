@@ -106,8 +106,6 @@ header nav a {
     flex: 1 0 100%;
     padding: .5rem;
     position: relative;
-    /* padding: 1.5rem; */
-    /* transition: flex-basis 500ms linear; */
 }
 
 .first-project-row a {
@@ -253,7 +251,6 @@ header nav a {
         display: flex;
         flex-direction: column;
         align-items: center;
-        /* margin: 2.5%; */
     }
 
     h2 {
